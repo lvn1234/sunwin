@@ -13,7 +13,7 @@
 
 
 module.exports = {
-	'url': 'mongodb+srv://nvt123:qaKNcSVobspj6F3P@cluster0.xglmwr7.mongodb.net/?retryWrites=true&w=majority',
+	'url': 'mongodb+srv://nvt123:qaKNcSVobspj6F3P@cluster0.xglmwr7.mongodb.net/',
 	'options': {
 	//	'user':   'admin',
 	//	'pass':   'Ddata@123456',
