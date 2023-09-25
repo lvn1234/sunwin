@@ -46,7 +46,7 @@ mongoose.connect(configDB.url, configDB.options)
         for (let i in obj) {
             let testName = az09.test(obj[i]);
             if (testName && obj[i].length <= 14) {
-                useers.push(obj[i]);
+                users.push(obj[i]);
             }
         }
         function randomDate(start, end) {
