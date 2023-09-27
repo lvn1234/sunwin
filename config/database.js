@@ -13,7 +13,7 @@
 
 
 module.exports = {
-	'url': 'mongodb+srv://nvt123:qaKNcSVobspj6F3P@cluster0.xglmwr7.mongodb.net/',
+	'url': 'mongodb://127.0.0.1:27017',
 	'options': {
 	//	'user':   'admin',
 	//	'pass':   'Ddata@123456',
